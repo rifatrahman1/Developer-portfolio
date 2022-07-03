@@ -1,0 +1,36 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.rifat {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.rayhan {
+    width: 60%;
+    margin: 50px;
+}
+
+.rayhan img {
+    width: 70%;
+    padding: 5%;
+
+}
+
+.jons {
+    background-color: orange;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
